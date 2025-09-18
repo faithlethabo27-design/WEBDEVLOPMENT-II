@@ -13,3 +13,4 @@ The following change are based on the use of CSS in PART 2
 -Font sizes
 -Removed a paragraph on services due to visibility
 -Text-aglinment
+-Clearity of background images
